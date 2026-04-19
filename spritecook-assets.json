@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "asset_id": "9d15408d-b3f1-4700-b9f2-182767b37ece",
+      "sha12": "d21598b79277",
+      "label": "player-ship",
+      "file": "src/assets/sprites/player-ship.png"
+    },
+    {
+      "asset_id": "1062f8bd-9a59-47d4-9dab-a0b255be718d",
+      "sha12": "f3c9bc01c115",
+      "label": "enemy-normal",
+      "file": "src/assets/sprites/enemy-normal.png"
+    },
+    {
+      "asset_id": "f02e06d0-ee0c-4fee-8e69-efa31139ce7c",
+      "sha12": "30d869dd9dd3",
+      "label": "enemy-special",
+      "file": "src/assets/sprites/enemy-special.png"
+    },
+    {
+      "asset_id": "cab543e9-f670-4e40-9c84-f56a85027ed1",
+      "sha12": "c0f9bf931a88",
+      "label": "boss",
+      "file": "src/assets/sprites/boss.png"
+    }
+  ]
+}
