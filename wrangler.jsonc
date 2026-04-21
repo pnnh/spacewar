@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "basex",
+	"name": "spacewar",
 	"compatibility_date": "2026-04-01",
 	"assets": {
 		"directory": "./dist", 
